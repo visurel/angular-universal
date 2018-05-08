@@ -30,6 +30,7 @@
     "@angular/platform-server": "^6.0.0",
     "@angular/router": "^6.0.0",
     "@nguniversal/module-map-ngfactory-loader": "^6.0.0",
+    "angular-in-memory-web-api": "^0.6.0",
     "core-js": "^2.5.5",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
