@@ -59,6 +59,7 @@
     "protractor": "~5.3.1",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
+    "typeface-roboto": "0.0.54",
     "typescript": "~2.7.2",
     "udk": "~0.3.11",
     "web-animations-js": "^2.3.1"
